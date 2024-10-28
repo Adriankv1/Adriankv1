@@ -6,7 +6,7 @@
 
 
 <h2>🌍 Connect with Me:</h2>
-LinkedIn: <p>https://www.linkedin.com/in/adrian-viken-208018210/</p>
+LinkedIn: <p>https://www.linkedin.com/in/adrian-kristoffer-viken/</p>
 <p>Email: Adriankv2002@hotmail.no</p><br>
 
 
