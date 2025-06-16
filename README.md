@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Adrian Viken!</h1><br>
 
 <h2>🎓 About Me:</h2>
-<p>I'm a 3rd-year bachelor student in Information Systems at the University of Agder (Kristiansand). I’m passionate about app development and business technology, and currently working towards my bachelors degree in which I together with my bechelor group will receive an assignment for us to complete.</p>
+<p>I'm a Bachelor Graduate within IT and Informationsystems! I like to create apps and websites, either this is just minigames or actual applications I need on a day to day basis!</p>
 <br>
 
 
